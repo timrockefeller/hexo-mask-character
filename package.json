@@ -1,0 +1,22 @@
+{
+  "name": "hexo-mask-character",
+  "version": "0.0.2",
+  "description": "Masked character tag for Hexo, inspired by the BBCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timrockefeller/hexo-mask-character.git"
+  },
+  "keywords": [
+    "hexo-plugin"
+  ],
+  "author": "kitekii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timrockefeller/hexo-mask-character/issues"
+  },
+  "homepage": "https://github.com/timrockefeller/hexo-mask-character#readme"
+}
