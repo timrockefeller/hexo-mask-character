@@ -12,7 +12,7 @@ hexo.extend.tag.register('mask',
      */
     function (args) {
         var text = args.join(' ');
-        var result = "<span style=\"background-color:#555;color:#555;border:1px solid #555;\">" + text + "</span>";
+        var result = "<span class=\"mask\" style=\"background-color:#555;color:#555;border:1px solid #555;\">" + text + "</span>";
         return result;
     }
 );
