@@ -1,7 +1,10 @@
 const css = hexo.extend.helper.get('css').bind(hexo);
 
 hexo.extend.injector.register('head_end', () => {
-    return css('ikmask.css');
+    return "<style type=\"text/css\">\
+    span.mask:hover{color:#fff!important}\
+</style>\
+";
 });
 hexo.extend.tag.register('mask',
     /**

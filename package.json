@@ -1,6 +1,6 @@
 {
   "name": "hexo-mask-character",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Masked character tag for Hexo, inspired by the BBCode.",
   "main": "index.js",
   "scripts": {
